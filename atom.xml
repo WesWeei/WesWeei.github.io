@@ -6,7 +6,7 @@
   <link href="http://blog.weswei.com/atom.xml" rel="self"/>
   
   <link href="http://blog.weswei.com/"/>
-  <updated>2022-11-01T02:38:01.481Z</updated>
+  <updated>2022-11-01T06:08:23.562Z</updated>
   <id>http://blog.weswei.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PostTest</title>
+    <link href="http://blog.weswei.com/2022/11/01/PostTest/"/>
+    <id>http://blog.weswei.com/2022/11/01/PostTest/</id>
+    <published>2022-11-01T06:07:36.000Z</published>
+    <updated>2022-11-01T06:08:23.562Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="This-is-a-post-test-of-my-blog"><a href="#This-is-a-post-test-of-my-blog" class="headerlink" title="This is a post test of my blog."></a>This is a post test of my blog.</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;This-is-a-post-test-of-my-blog&quot;&gt;&lt;a href=&quot;#This-is-a-post-test-of-my-blog&quot; class=&quot;headerlink&quot; title=&quot;This is a post test of my blog.&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
