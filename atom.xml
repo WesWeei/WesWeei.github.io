@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WesWei&#39;s blog</title>
+  <title>WesWei&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/b5d59e139d0fc9b99377a178d628f45e</icon>
   
   <link href="http://blog.weswei.com/atom.xml" rel="self"/>
   
   <link href="http://blog.weswei.com/"/>
-  <updated>2022-11-01T13:42:12.980Z</updated>
+  <updated>2022-11-14T08:19:41.665Z</updated>
   <id>http://blog.weswei.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.weswei.com/2022/11/01/PostTest/"/>
     <id>http://blog.weswei.com/2022/11/01/PostTest/</id>
     <published>2022-11-01T06:07:36.000Z</published>
-    <updated>2022-11-01T13:42:12.980Z</updated>
+    <updated>2022-11-14T08:19:41.665Z</updated>
     
     <content type="html"><![CDATA[<h1 id="This-is-a-post-test-of-my-blog"><a href="#This-is-a-post-test-of-my-blog" class="headerlink" title="This is a post test of my blog."></a>This is a post test of my blog.</h1>]]></content>
     
