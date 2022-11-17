@@ -6,7 +6,7 @@
   <link href="http://blog.weswei.com/atom.xml" rel="self"/>
   
   <link href="http://blog.weswei.com/"/>
-  <updated>2022-11-14T08:19:41.665Z</updated>
+  <updated>2022-11-17T15:18:45.220Z</updated>
   <id>http://blog.weswei.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PostTest</title>
+    <title>评论功能测试</title>
     <link href="http://blog.weswei.com/2022/11/01/PostTest/"/>
     <id>http://blog.weswei.com/2022/11/01/PostTest/</id>
     <published>2022-11-01T06:07:36.000Z</published>
-    <updated>2022-11-14T08:19:41.665Z</updated>
+    <updated>2022-11-17T15:18:45.220Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="This-is-a-post-test-of-my-blog"><a href="#This-is-a-post-test-of-my-blog" class="headerlink" title="This is a post test of my blog."></a>This is a post test of my blog.</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是一篇用来测试评论功能的文章"><a href="#这是一篇用来测试评论功能的文章" class="headerlink" title="这是一篇用来测试评论功能的文章."></a>这是一篇用来测试评论功能的文章.</h1>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;This-is-a-post-test-of-my-blog&quot;&gt;&lt;a href=&quot;#This-is-a-post-test-of-my-blog&quot; class=&quot;headerlink&quot; title=&quot;This is a post test of my blog.&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;这是一篇用来测试评论功能的文章&quot;&gt;&lt;a href=&quot;#这是一篇用来测试评论功能的文章&quot; class=&quot;headerlink&quot; title=&quot;这是一篇用来测试评论功能的文章.&quot;&gt;&lt;/a&gt;这是一篇用来测试评论功能的文章.&lt;/h1&gt;</summary>
       
     
     
