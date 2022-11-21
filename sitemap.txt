@@ -1,2 +1,6 @@
-http://blog.weswei.com/2022/11/01/PostTest/
+http://blog.weswei.com/tags/index.html
+http://blog.weswei.com/link/index.html
+http://blog.weswei.com/categories/index.html
+http://blog.weswei.com/about/index.html
+http://blog.weswei.com/2022/11/21/WesWeiBlog%E8%AF%9E%E7%94%9F%E8%AE%B0/
 http://blog.weswei.com/
