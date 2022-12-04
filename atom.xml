@@ -6,7 +6,7 @@
   <link href="http://blog.weswei.com/atom.xml" rel="self"/>
   
   <link href="http://blog.weswei.com/"/>
-  <updated>2022-11-21T08:41:38.962Z</updated>
+  <updated>2022-12-04T15:11:23.920Z</updated>
   <id>http://blog.weswei.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.weswei.com/2022/11/21/WesWeiBlog%E8%AF%9E%E7%94%9F%E8%AE%B0/"/>
     <id>http://blog.weswei.com/2022/11/21/WesWeiBlog%E8%AF%9E%E7%94%9F%E8%AE%B0/</id>
     <published>2022-11-21T08:05:32.000Z</published>
-    <updated>2022-11-21T08:41:38.962Z</updated>
+    <updated>2022-12-04T15:11:23.920Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>期中考试周终于结束了😇</p><p>此处应该配图</p><div class="fj-gallery"><p><img src="/photo/kddzc.jpg"></p>          </div><p>其实这篇文章断断续续写了好久，复习累了就摸鱼码两个字。</p><p>考完试脑子不接受任何知识的摄入，于是摆大烂把这篇文章一口气写完了。</p><h1 id="绪"><a href="#绪" class="headerlink" title="绪"></a>绪</h1><h2 id="这是一篇有关WesWeiBlog诞生的短记。"><a href="#这是一篇有关WesWeiBlog诞生的短记。" class="headerlink" title="这是一篇有关WesWeiBlog诞生的短记。"></a>这是一篇有关WesWeiBlog诞生的短记。</h2><p><strong>每个第一次总是有意义的。</strong>更何况，这是我第一个属于自己的域名，第一个属于自己的网站，第一个属于自己的博客。这第一篇文章，自然而然地，具有相当的纪念意义。我又想到，创建这个小站的过程本就是一件值得记录的事情，于是顺理成章地，我码下了这段文字，作为第一个分享给你的故事，也籍此纪念<a href="https://blog.weswei.com/">WesWeiBlog</a>的诞生。</p><h1 id="缘与源"><a href="#缘与源" class="headerlink" title="缘与源"></a>缘与源</h1><p>其实曾经我并不是一个喜欢做记录的人，中学期间，我几乎不怎么发过动态，朋友圈，也不曾写过什么日记，周记。</p><p>高考结束，在匆忙却又充实的中学生活结束后，长达三个月的长假显得非常空虚。各种在高考前，算计好考完后要做的事情似乎也变得没那么吸引人。也正是这时候，有了更多的时间去看朋友圈，了解朋友们有趣的故事与生活。</p><p>所以我想，为何不把朋友圈当做一个随时随地可以翻阅的公开记事本，把我的生活分享给朋友们呢。于是，在<strong>2021年8月12日</strong>，我发出了人生中第一条朋友圈。<del>如果你在我的微信列表，并且愿意翻，应该还能翻到</del></p><p>偶尔我也会去翻翻以前自己发的朋友圈，感觉回忆一下以前的生活也蛮有意思的（笑）。这大概也算是发挥了一些日记的作用？<del>小学曾经尝试过每天写日记，但是由于大部分都是流水账，坚持不到两周就放弃了</del></p><p>但是慢慢地我觉得朋友圈似乎也不是很能满足我的需求。有时候想要写一写长文（比如这篇就是），朋友圈的排版又过于简单。<del>例如排版只能靠换行</del></p><p>于是，我就有了写博客的想法。</p><h1 id="抉择"><a href="#抉择" class="headerlink" title="抉择"></a>抉择</h1><p>想法有了，载体用什么似乎又成了一个难题。</p><p>最初的想法其实是创建一个公众号。因为高中时期就曾读过一些朋友们的公众号文章，观感良好，感觉非常适合写长文。但是，我又觉得，公众号不够灵活（缺少真正属于个人的感觉？）</p><p>一个偶然的机会，在参加HackerGame2022的时候，看到一些排行榜上面的大佬名字后面都带有一个网址，我才了解到个人博客这样一个非常适合记录生活，分享技术的方式。</p><p>恰好，我是一个非常热爱折腾的人，于是，萌生了建立一个属于自己的个人博客的想法。<del>不觉得这很酷吗?作为一名理工男我觉得这太酷了，很符合我对未来生活的想象，科技并带着趣味</del></p><h1 id="折腾"><a href="#折腾" class="headerlink" title="折腾"></a>折腾</h1><p>既然有了想法，那就着手付诸实践。<br>于是我便开始了解如何搭建一个博客。</p><h2 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h2><p>域名通俗来说就是浏览器最顶上框框的那个网址。</p><p>世界上的每一个网站都有一个对应的形如<strong>192.168.0.1(IPv4)<strong>或者</strong>1002:003B:456C:678D:890E:0012:234F:56G7(IPv6)<strong>的</strong>IP地址</strong>。但是这样的一串字符过于抽象，难以记忆和分享。所以我们需要一个更加形象容易记住的代名词。</p><p>而域名就担任了这样一个功能。比如我们经常见到的诸如<a href="https://www.baidu.com/">www.baidu.com</a>，<a href="https://www.google.com/">www.google.com</a>这样的网址，就是域名。这个网站是我的博客，于是我便在<a href="https://www.huaweicloud.com/">华为云</a>租赁了<a href="https://blog.weswei.com/">blog.weswei.com</a>这样一个一看就知道是WesWei博客的域名。</p><h2 id="框架"><a href="#框架" class="headerlink" title="框架"></a>框架</h2><p>域名有了，但是我不太懂怎么写网页代码，怎么办呢？答案是，找前人写的轮子。</p><p>于是我凭着大一在代码知识方面的积累，速成了html，JavaScript等语言的基础知识，又经过一番检索，了解到了<a href="https://easyhexo.com/">hexo</a>这样一个简单易用的个人博客网站框架。就这样，一个简陋的个人网站便搭好了。</p><h1 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h1><p>由于个人技术力的不足，现在这个网站还十分简陋。等到未来随着水平的逐渐提高，再来慢慢完善吧。</p><ul><li>以后可能会写的文章类型<ul><li>独处时胡思乱想出来的一些想法</li><li>阅读文章后的心得体会</li><li>记录有趣事情的短记</li><li>记录外出增长见识经历的游记</li><li>也可能会当做随时随地可翻看的笔记本，写一些技术分享。</li></ul></li></ul><p>由于这篇文章是由数个短暂的摸鱼时刻编写拼凑而成，所以可能语言显得毫无章法。<del>比较符合当代大学生复习时的精神状态</del></p><p>非常感谢你能耐心地看到这里</p><p>本篇完</p>]]></content>
     
@@ -35,6 +35,10 @@
     
     
     
+    <category term="随记" scheme="http://blog.weswei.com/categories/%E9%9A%8F%E8%AE%B0/"/>
+    
+    
+    <category term="随想" scheme="http://blog.weswei.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
