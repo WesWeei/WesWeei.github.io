@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.weswei.com/2022/12/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/2022/12/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2022-12-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/2022/12/14/%E6%95%A3%E5%88%97%E8%A1%A8/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/2022/12/14/%E6%95%A3%E5%88%97%E8%A1%A8/</loc>
     
     <lastmod>2022-12-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/2022/11/21/WesWeiBlog%E8%AF%9E%E7%94%9F%E8%AE%B0/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/2022/11/21/WesWeiBlog%E8%AF%9E%E7%94%9F%E8%AE%B0/</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/tags/index.html</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/tags/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/link/index.html</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/link/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/categories/index.html</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/categories/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/about/index.html</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/about/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://blog.weswei.com/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -74,21 +74,21 @@
 
   
   <url>
-    <loc>http://blog.weswei.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/tags/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -97,14 +97,14 @@
 
   
   <url>
-    <loc>http://blog.weswei.com/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.weswei.com/categories/%E9%9A%8F%E8%AE%B0/</loc>
+    <loc>http://blog.weswei.com/wes-wei-blog/categories/%E9%9A%8F%E8%AE%B0/</loc>
     <lastmod>2022-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
