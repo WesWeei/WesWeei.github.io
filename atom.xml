@@ -6,7 +6,7 @@
   <link href="https://blog.weswei.com/atom.xml" rel="self"/>
   
   <link href="https://blog.weswei.com/"/>
-  <updated>2022-12-16T15:45:58.156Z</updated>
+  <updated>2022-12-16T15:59:49.372Z</updated>
   <id>https://blog.weswei.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blog.weswei.com/2022/12/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/"/>
     <id>https://blog.weswei.com/2022/12/15/%E8%AF%84%E8%AE%BA%E6%B5%8B%E8%AF%95/</id>
     <published>2022-12-15T10:13:25.000Z</published>
-    <updated>2022-12-16T15:45:58.156Z</updated>
+    <updated>2022-12-16T15:59:49.372Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="这是一篇用来测试评论区功能的文章"><a href="#这是一篇用来测试评论区功能的文章" class="headerlink" title="这是一篇用来测试评论区功能的文章"></a>这是一篇用来测试评论区功能的文章</h1><h2 id="用户信息栏说明"><a href="#用户信息栏说明" class="headerlink" title="用户信息栏说明"></a>用户信息栏说明</h2><ul><li>昵称：填写自己喜欢的昵称</li><li>邮箱：填写自己的常用邮箱，使用qq邮箱可自动抓取qq头像</li><li>网址：暂时没什么用，可以不填</li></ul><h2 id="评论编辑栏说明"><a href="#评论编辑栏说明" class="headerlink" title="评论编辑栏说明"></a>评论编辑栏说明</h2><ul><li>表情：可在评论中添加表情</li><li>图片：可在评论中插入图片<del>不要插入太大的图片不然服务器压力有亿点大</del></li><li>预览：Markdown语法编辑预览</li></ul><p>不了解Markdown语法? 点击<a href="https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=f22223129f65cdce91eba365f1c2bbc8">这里</a>开始学习</p><h2 id="Markdown语法预览效果"><a href="#Markdown语法预览效果" class="headerlink" title="Markdown语法预览效果"></a>Markdown语法预览效果</h2><p><img src="/source/photo/MarkdownPreview.PNG"></p><hr>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是一篇用来测试评论区功能的文章"><a href="#这是一篇用来测试评论区功能的文章" class="headerlink" title="这是一篇用来测试评论区功能的文章"></a>这是一篇用来测试评论区功能的文章</h1><h2 id="用户信息栏说明"><a href="#用户信息栏说明" class="headerlink" title="用户信息栏说明"></a>用户信息栏说明</h2><ul><li>昵称：填写自己喜欢的昵称</li><li>邮箱：填写自己的常用邮箱，使用qq邮箱可自动抓取qq头像</li><li>网址：暂时没什么用，可以不填</li></ul><h2 id="评论编辑栏说明"><a href="#评论编辑栏说明" class="headerlink" title="评论编辑栏说明"></a>评论编辑栏说明</h2><ul><li>表情：可在评论中添加表情</li><li>图片：可在评论中插入图片<del>不要插入太大的图片不然服务器压力有亿点大</del></li><li>预览：Markdown语法编辑预览</li></ul><p>不了解Markdown语法? 点击<a href="https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=f22223129f65cdce91eba365f1c2bbc8">这里</a>开始学习</p><h2 id="Markdown语法预览效果"><a href="#Markdown语法预览效果" class="headerlink" title="Markdown语法预览效果"></a>Markdown语法预览效果</h2><p><img src="/photo/MarkdownPreview.PNG"></p><hr>]]></content>
     
     
       
